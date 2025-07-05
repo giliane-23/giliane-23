@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @giliane-23
-- 👀 I’m interested en full stack...
-- 🌱 I’m currently learning python ...
+- 👋 Hi, I’m @Giliane Rodrigues
+- 👀 I’m interested en Back-end
+- 🌱 I’m currently learning c++, analise de dados com PowerBI
 
 
 <!---
